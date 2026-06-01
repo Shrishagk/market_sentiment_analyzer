@@ -87,6 +87,4 @@ The script regenerates:
 5. Segment traders into frequency, size, and consistency groups.
 6. Generate strategy recommendations from the observed segment-level patterns.
 
-## Important Data Note
 
-The assignment mentions leverage, but the supplied trader CSV does not include an explicit leverage column. The analysis documents this limitation and uses available risk proxies instead: USD notional, fee burden, trade frequency, and starting-position exposure relative to trade size.
