@@ -1,0 +1,70 @@
+{
+  "sentiment_shape": [
+    2644,
+    4
+  ],
+  "trades_shape": [
+    211224,
+    16
+  ],
+  "sentiment_missing": {
+    "timestamp": 0,
+    "value": 0,
+    "classification": 0,
+    "date": 0
+  },
+  "trades_missing": {
+    "Account": 0,
+    "Coin": 0,
+    "Execution Price": 0,
+    "Size Tokens": 0,
+    "Size USD": 0,
+    "Side": 0,
+    "Timestamp IST": 0,
+    "Start Position": 0,
+    "Direction": 0,
+    "Closed PnL": 0,
+    "Transaction Hash": 0,
+    "Order ID": 0,
+    "Crossed": 0,
+    "Fee": 0,
+    "Trade ID": 0,
+    "Timestamp": 0
+  },
+  "sentiment_duplicates": 0,
+  "trades_duplicates": 0,
+  "date_overlap": {
+    "sentiment_min": "2018-02-01",
+    "sentiment_max": "2025-05-02",
+    "trades_min": "2023-05-01",
+    "trades_max": "2025-05-01",
+    "matched_trade_rows": 211218,
+    "unmatched_trade_rows": 6
+  },
+  "columns": {
+    "sentiment": [
+      "timestamp",
+      "value",
+      "classification",
+      "date"
+    ],
+    "trades": [
+      "Account",
+      "Coin",
+      "Execution Price",
+      "Size Tokens",
+      "Size USD",
+      "Side",
+      "Timestamp IST",
+      "Start Position",
+      "Direction",
+      "Closed PnL",
+      "Transaction Hash",
+      "Order ID",
+      "Crossed",
+      "Fee",
+      "Trade ID",
+      "Timestamp"
+    ]
+  }
+}

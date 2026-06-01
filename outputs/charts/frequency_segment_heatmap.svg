@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="430" viewBox="0 0 780 430">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: Arial, sans-serif; fill: #1f2933; }
+.title { font-size: 20px; font-weight: 700; }
+.axis { font-size: 12px; fill: #52616b; }
+.label { font-size: 12px; }
+.value { font-size: 12px; font-weight: 700; }
+.grid { stroke: #e6e8eb; stroke-width: 1; }
+</style>
+<text x="150" y="35" class="title">Avg Trade Net PnL by Frequency Segment</text>
+<text x="248.3" y="55" text-anchor="middle" class="axis">Fear</text>
+<text x="445.0" y="55" text-anchor="middle" class="axis">Greed</text>
+<text x="641.7" y="55" text-anchor="middle" class="axis">Neutral</text>
+<text x="138" y="129.0" text-anchor="end" class="axis">Frequent</text>
+<rect x="150.0" y="75.0" width="192.7" height="96.0" fill="rgb(194,226,194)" stroke="#ffffff"/>
+<text x="248.3" y="129.0" text-anchor="middle" class="value">$42.14</text>
+<rect x="346.7" y="75.0" width="192.7" height="96.0" fill="rgb(198,228,198)" stroke="#ffffff"/>
+<text x="445.0" y="129.0" text-anchor="middle" class="value">$38.52</text>
+<rect x="543.3" y="75.0" width="192.7" height="96.0" fill="rgb(216,236,214)" stroke="#ffffff"/>
+<text x="641.7" y="129.0" text-anchor="middle" class="value">$22.30</text>
+<text x="138" y="229.0" text-anchor="end" class="axis">Infrequent</text>
+<rect x="150.0" y="175.0" width="192.7" height="96.0" fill="rgb(102,187,116)" stroke="#ffffff"/>
+<text x="248.3" y="229.0" text-anchor="middle" class="value">$123.19</text>
+<rect x="346.7" y="175.0" width="192.7" height="96.0" fill="rgb(155,210,162)" stroke="#ffffff"/>
+<text x="445.0" y="229.0" text-anchor="middle" class="value">$75.74</text>
+<rect x="543.3" y="175.0" width="192.7" height="96.0" fill="rgb(227,240,223)" stroke="#ffffff"/>
+<text x="641.7" y="229.0" text-anchor="middle" class="value">$13.01</text>
+<text x="138" y="329.0" text-anchor="end" class="axis">Moderate</text>
+<rect x="150.0" y="275.0" width="192.7" height="96.0" fill="rgb(194,226,195)" stroke="#ffffff"/>
+<text x="248.3" y="329.0" text-anchor="middle" class="value">$42.02</text>
+<rect x="346.7" y="275.0" width="192.7" height="96.0" fill="rgb(167,215,172)" stroke="#ffffff"/>
+<text x="445.0" y="329.0" text-anchor="middle" class="value">$65.30</text>
+<rect x="543.3" y="275.0" width="192.7" height="96.0" fill="rgb(164,213,169)" stroke="#ffffff"/>
+<text x="641.7" y="329.0" text-anchor="middle" class="value">$68.58</text>
+</svg>

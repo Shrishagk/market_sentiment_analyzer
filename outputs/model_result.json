@@ -1,0 +1,7 @@
+{
+  "available": true,
+  "rows": 478,
+  "test_rows": 144,
+  "accuracy": 0.6597222222222222,
+  "roc_auc": 0.705312810327706
+}

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="520" viewBox="0 0 950 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: Arial, sans-serif; fill: #1f2933; }
+.title { font-size: 20px; font-weight: 700; }
+.axis { font-size: 12px; fill: #52616b; }
+.label { font-size: 12px; }
+.value { font-size: 12px; font-weight: 700; }
+.grid { stroke: #e6e8eb; stroke-width: 1; }
+</style>
+<text x="140" y="35" class="title">Top 15 Accounts by Net PnL</text>
+<text x="128" y="83.7" text-anchor="end" class="axis">0xb1231a...</text>
+<rect x="140" y="70.0" width="765.0" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="913.0" y="83.7" class="value">$2,127,387</text>
+<text x="128" y="111.0" text-anchor="end" class="axis">0x083384...</text>
+<rect x="140" y="97.3" width="572.8" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="720.8" y="111.0" class="value">$1,592,825</text>
+<text x="128" y="138.3" text-anchor="end" class="axis">0xbaaaf6...</text>
+<rect x="140" y="124.7" width="335.0" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="483.0" y="138.3" class="value">$931,567</text>
+<text x="128" y="165.7" text-anchor="end" class="axis">0xbee170...</text>
+<rect x="140" y="152.0" width="295.8" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="443.8" y="165.7" class="value">$822,728</text>
+<text x="128" y="193.0" text-anchor="end" class="axis">0x513b86...</text>
+<rect x="140" y="179.3" width="274.7" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="422.7" y="193.0" class="value">$763,998</text>
+<text x="128" y="220.3" text-anchor="end" class="axis">0x4acb90...</text>
+<rect x="140" y="206.7" width="240.8" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="388.8" y="220.3" class="value">$669,721</text>
+<text x="128" y="247.7" text-anchor="end" class="axis">0x72743a...</text>
+<rect x="140" y="234.0" width="153.8" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="301.8" y="247.7" class="value">$427,804</text>
+<text x="128" y="275.0" text-anchor="end" class="axis">0x430f09...</text>
+<rect x="140" y="261.3" width="149.5" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="297.5" y="275.0" class="value">$415,795</text>
+<text x="128" y="302.3" text-anchor="end" class="axis">0x75f7ee...</text>
+<rect x="140" y="288.7" width="135.4" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="283.4" y="302.3" class="value">$376,500</text>
+<text x="128" y="329.7" text-anchor="end" class="axis">0x72c6a4...</text>
+<rect x="140" y="316.0" width="129.5" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="277.5" y="329.7" class="value">$360,258</text>
+<text x="128" y="357.0" text-anchor="end" class="axis">0x4f93fe...</text>
+<rect x="140" y="343.3" width="96.5" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="244.5" y="357.0" class="value">$268,251</text>
+<text x="128" y="384.3" text-anchor="end" class="axis">0xbd5fea...</text>
+<rect x="140" y="370.7" width="77.6" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="225.6" y="384.3" class="value">$215,746</text>
+<text x="128" y="411.7" text-anchor="end" class="axis">0x420ab4...</text>
+<rect x="140" y="398.0" width="71.6" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="219.6" y="411.7" class="value">$199,238</text>
+<text x="128" y="439.0" text-anchor="end" class="axis">0x2c229d...</text>
+<rect x="140" y="425.3" width="59.5" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="207.5" y="439.0" class="value">$165,550</text>
+<text x="128" y="466.3" text-anchor="end" class="axis">0x28736f...</text>
+<rect x="140" y="452.7" width="46.8" height="18.3" fill="#3d6fb6" rx="3"/>
+<text x="194.8" y="466.3" class="value">$130,246</text>
+</svg>
