@@ -1,7 +1,9 @@
 {
   "available": true,
+  "model_type": "Sentiment historical-rate baseline",
+  "note": "Used fallback because sklearn was unavailable: No module named 'sklearn'",
   "rows": 478,
   "test_rows": 144,
-  "accuracy": 0.6597222222222222,
-  "roc_auc": 0.705312810327706
+  "accuracy": 0.75,
+  "roc_auc": 0.5478515625
 }

@@ -141,10 +141,10 @@ Top accounts by net PnL:
 
 ## Bonus: lightweight predictive model
 
-A simple **Logistic regression** model was trained to predict whether the next trading day would be net profitable using sentiment and recent behavior features where available. It used 478 daily observations and held out 144 rows for testing.
+A simple **Sentiment historical-rate baseline** model was trained to predict whether the next trading day would be net profitable using sentiment and recent behavior features where available. It used 478 daily observations and held out 144 rows for testing.
 
-- Accuracy: 66.0%
-- ROC AUC: 0.705
+- Accuracy: 75.0%
+- ROC AUC: 0.548
 
 This is a directionally useful baseline, not a production trading model. It should be validated with walk-forward splits and richer market features before use.
 
